@@ -1,0 +1,11 @@
+.box {
+    margin: 1em 0;
+    padding: 1rem 0;
+}
+
+app-post {
+    display: grid;
+    grid-template-columns: 6fr 2fr;
+    border-bottom: solid #F3F1F7 1px;
+    padding: 1rem 0;
+}

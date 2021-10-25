@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Homemade+Apple&display=swap');
+
+html {
+    background-color: #F3F1F7;
+    font-family:'Dosis', sans-serif;
+}
+
+body {
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+}
+
+.box {
+    width: 100%;
+    background-color: white;
+    border: black 1px solid;
+    border-radius: 0.25em;
+}
